@@ -1,4 +1,5 @@
 class Solution {
+    //for github
     public int majorityElement(int[] nums) {
         int candidate = 0, count = 0;
         for (int num : nums) {
