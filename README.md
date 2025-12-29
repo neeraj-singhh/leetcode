@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/neeraj-singhh/leetcode/tree/master/0169-majority-element) |
+| [0756-pyramid-transition-matrix](https://github.com/neeraj-singhh/leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/neeraj-singhh/leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/neeraj-singhh/leetcode/tree/master/0756-pyramid-transition-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/neeraj-singhh/leetcode/tree/master/0756-pyramid-transition-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/neeraj-singhh/leetcode/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
