@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/neeraj-singhh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0840-magic-squares-in-grid](https://github.com/neeraj-singhh/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/neeraj-singhh/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2073-time-needed-to-buy-tickets](https://github.com/neeraj-singhh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/neeraj-singhh/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/neeraj-singhh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/neeraj-singhh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
