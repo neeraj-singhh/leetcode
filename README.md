@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/neeraj-singhh/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/neeraj-singhh/leetcode/tree/master/0739-daily-temperatures) |
 | [0840-magic-squares-in-grid](https://github.com/neeraj-singhh/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/neeraj-singhh/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/neeraj-singhh/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/neeraj-singhh/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2073-time-needed-to-buy-tickets](https://github.com/neeraj-singhh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/neeraj-singhh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0756-pyramid-transition-matrix](https://github.com/neeraj-singhh/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/neeraj-singhh/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/neeraj-singhh/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
 | ------- |
