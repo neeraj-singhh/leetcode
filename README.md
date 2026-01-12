@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/neeraj-singhh/leetcode/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/neeraj-singhh/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/neeraj-singhh/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/neeraj-singhh/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/neeraj-singhh/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Math
 |  |
@@ -124,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/neeraj-singhh/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
