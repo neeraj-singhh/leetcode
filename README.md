@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/neeraj-singhh/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/neeraj-singhh/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2073-time-needed-to-buy-tickets](https://github.com/neeraj-singhh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/neeraj-singhh/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/neeraj-singhh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/neeraj-singhh/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/neeraj-singhh/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/neeraj-singhh/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
