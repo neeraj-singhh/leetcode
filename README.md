@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/neeraj-singhh/leetcode/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/neeraj-singhh/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/neeraj-singhh/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/neeraj-singhh/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/neeraj-singhh/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/neeraj-singhh/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/neeraj-singhh/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/neeraj-singhh/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Two Pointers
