@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/neeraj-singhh/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/neeraj-singhh/leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/neeraj-singhh/leetcode/tree/master/0292-nim-game) |
 | [0840-magic-squares-in-grid](https://github.com/neeraj-singhh/leetcode/tree/master/0840-magic-squares-in-grid) |
 ## Stack
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/neeraj-singhh/leetcode/tree/master/0069-sqrtx) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/neeraj-singhh/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
