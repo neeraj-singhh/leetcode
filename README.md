@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/neeraj-singhh/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/neeraj-singhh/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/neeraj-singhh/leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1732-find-the-highest-altitude](https://github.com/neeraj-singhh/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/neeraj-singhh/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/neeraj-singhh/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2073-time-needed-to-buy-tickets](https://github.com/neeraj-singhh/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -162,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/neeraj-singhh/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/neeraj-singhh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/neeraj-singhh/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1732-find-the-highest-altitude](https://github.com/neeraj-singhh/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
