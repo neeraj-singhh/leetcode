@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/neeraj-singhh/leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/neeraj-singhh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neeraj-singhh/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/neeraj-singhh/leetcode/tree/master/0066-plus-one) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/neeraj-singhh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/neeraj-singhh/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/neeraj-singhh/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/neeraj-singhh/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/neeraj-singhh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/neeraj-singhh/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/neeraj-singhh/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/neeraj-singhh/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -142,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/neeraj-singhh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/neeraj-singhh/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/neeraj-singhh/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/neeraj-singhh/leetcode/tree/master/0042-trapping-rain-water) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neeraj-singhh/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Brainteaser
 |  |
