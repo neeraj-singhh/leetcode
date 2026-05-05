@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/neeraj-singhh/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/neeraj-singhh/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/neeraj-singhh/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/neeraj-singhh/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/neeraj-singhh/leetcode/tree/master/0066-plus-one) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/neeraj-singhh/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/neeraj-singhh/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Math
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/neeraj-singhh/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/neeraj-singhh/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/neeraj-singhh/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/neeraj-singhh/leetcode/tree/master/0055-jump-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/neeraj-singhh/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
