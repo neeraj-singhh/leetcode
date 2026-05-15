@@ -135,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/neeraj-singhh/leetcode/tree/master/0226-invert-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/neeraj-singhh/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/neeraj-singhh/leetcode/tree/master/0226-invert-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/neeraj-singhh/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
@@ -172,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/neeraj-singhh/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/neeraj-singhh/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/neeraj-singhh/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/neeraj-singhh/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/neeraj-singhh/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
